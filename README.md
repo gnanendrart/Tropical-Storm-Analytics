@@ -1,4 +1,4 @@
-# Tropical-Storm-Analytics
+# Tropical Storm Analytics
 The NOAA National Hurricane Center has several databases available. We’re going to work with a historical one called “HURDAT2”. From http://www.nhc.noaa.gov/data/#hurdat we can download two data files (Pacific and Atlantic) in a non-standard CSV/fixed-width format. The strangeness is due to the mixture of two interrelated line formats, the lack of column headers, and many missing data values (-99 & -999). There are accompanying PDFs on that same webpage that describe the data format in fine detail.
 
 I have started the analysis by first finding more about the data by finding some basic information about the storms present and the exploring the data. 
